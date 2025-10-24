@@ -1,1 +1,3 @@
 Hello Git
+Adding a new line
+Adding a third line
